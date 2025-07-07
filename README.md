@@ -1,4 +1,4 @@
-# SEEQ E-Learning: Advanced Analytics Skills Training
+# SEEQ E-Learning: Advanced Analytics Skills Training 
 
 ## Overview
 
@@ -41,7 +41,7 @@ This repository highlights my completion of the **SEEQ E-Learning Advanced Analy
 | 15 | Data – Creating Asset Groups (Bonus) | 30 min |
 | 16 | Visualize – Identifying Relationships (Bonus) | 32 min |
 | 17 | Wrap Up | 2 min |
-| 18 | Course Evaluation | N/A |
+| 18 | Other | 20h |
 
 ## Applications
 
