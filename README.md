@@ -62,6 +62,6 @@ This training has equipped me to:
 > ✅ *This course strengthened my expertise in SEEQ for advanced industrial analytics and supports my ongoing growth as a data-driven engineer and analyst.*
 > Prerequisite:
 
-## For Data Scientist Learning Path: 
-- Completion of Data Lab Training
+## Prerequisite 
+- For Data Scientist Learning Path: Completion of Data Lab Training
 - For other learning paths: Completion of Foundations Analytics Skills Test
